@@ -21,7 +21,7 @@ Git, jQuery, Bootstrap, Unity3D, VTK, AngularJS (Beginner)
 ## Currently
 
 `Jun - Aug 2019`
-Airbnb, *Incoming Software Engineer Intern*, San Francisco, USA
+__Airbnb__, *Incoming Software Engineer Intern*, San Francisco, USA
 
 
 ## Projects
@@ -58,12 +58,12 @@ Graduated with distinction.
 ## Past Experience
 
 `2015 - 2018`
-__Triovest Realty Advisors__, *Property Accountant*.
+Triovest Realty Advisors, *Property Accountant*.
 
 Received employee recognition award for creating various workflow automation tools using Excel VBA that shortened report preparation time by 30%.
 
 `2013 - 2015`
-__Sterling Karamar Property Management__, *Property Accountant*.
+Sterling Karamar Property Management, *Property Accountant*.
 
 
 
