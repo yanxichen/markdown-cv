@@ -37,22 +37,29 @@ __Realsense Viewer__, *A 3D Point Cloud Data Visualization for Intel RealSense C
 
 `Python`
 __InstaGrow__, *An Instagram automation tool that grows followers through automated social interactions.*
-- Doubled followers within a month through automated liking posts and following accounts
+- Grows followers count through automated liking posts and following accounts
+
+`Python`
+__Catheter Direction Detector__, *A real-time detector for surgical catheter tip orientations.*
+- Uses a convolutional neural network to assess catheter direction from 2D images
 
 ## Education
 
 `Sep 2018 - Now`
 __Computing Science__, *University of Alberta*, M. Sc.
+
 Focus includes Machine Learning and AI, Image Processing, Computer Vision, and Network.
 
 `Sep 2019 - Jun 2013`
 __Accounting__, *University of Toronto*, B. Comm.
+
 Graduated with distinction.
 
 ## Past Experience
 
 `2015 - 2018`
 __Triovest Realty Advisors__, *Property Accountant*.
+
 Received employee recognition award for creating various workflow automation tools using Excel VBA that shortened report preparation time by 30%.
 
 `2013 - 2015`
