@@ -45,7 +45,7 @@ __InstaGrow__, An Instagram automation tool that grows followers through automat
 __Computing Science__, *University of Alberta*, M. Sc.
 Focus includes Machine Learning and AI, Image Processing, Computer Vision, and Network.
 
-`Sep 2019 - Jun 2013`
+`Sep 2009 - Jun 2013`
 __Accounting__, *University of Toronto*, B. Comm.
 Graduated with distinction.
 
