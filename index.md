@@ -10,7 +10,7 @@ A self-motivated and skilled developer pursuing a M.Sc in Computing Science.
 | <a href="https://yanxichen.github.io/madebyyanxi/">My GitHub page</a>
 </div>
 
-### Skills
+## Skills
 
 `Languages`
 Python, Java, JavaScript, HTML, MatLab, SQL (Beginner)
@@ -24,7 +24,7 @@ Git, jQuery, Bootstrap, Unity3D, VTK, AngularJS (Beginner)
 Airbnb, *Incoming Software Engineer Intern*, San Francisco, USA
 
 
-### Projects
+## Projects
 
 `Python`
 __SilverFr__, A web-based automatic spoken French evaluation tool.
