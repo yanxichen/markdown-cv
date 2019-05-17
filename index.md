@@ -1,91 +1,67 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Yanxi Chen's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Yanxi Chen
+A self-motivated and skilled developer pursuing a M.Sc in Computing Science.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="yanxi.yc@gmail.com">yanxi.yc@gmail.com</a>
+| <a href="https://yanxichen.github.io/madebyyanxi/">My GitHub page</a>
 </div>
 
+### Skills
+
+`Languages`
+Python, Java, JavaScript, HTML, MatLab, SQL (Beginner)
+
+`Frameworks & Tools`
+Git, jQuery, Bootstrap, Unity3D, VTK, AngularJS (Beginner)
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`Jun - Aug 2019`
+Airbnb, *Incoming Software Engineer Intern*, San Francisco, USA
 
 
-### Research interests
+### Projects
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`Python`
+__SilverFr__, A web-based automatic spoken French evaluation tool.
+- Selected by Bank of Canada as a finalist in the PIVOT Program
+- Uses audio signal processing and deep learning to evaluate speech fluency and content
 
+`Python`
+__Realsense Viewer__, A 3D Point Cloud Data Visualization for Intel® RealSense™ Camera, built with Python and VTK.
+- Displays and allows user engagement with the visualized 3D point cloud data in real-time
+
+`Python`
+__InstaGrow__, An Instagram automation tool that grows followers through automated interactions with other accounts.
+- Doubled follower count within a month through automated liking posts and following accounts
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Sep 2018 - Now`
+__Computing Science__, *University of Alberta*, M. Sc.
+Focus includes Machine Learning and AI, Image Processing, Computer Vision, and Network.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`Sep 2019 - Jun 2013`
+__Accounting__, *University of Toronto*, B. Comm.
+Graduated with distinction.
 
-- Sizar
+## Past Experience
 
-`1667 - death`
-__Trinity College, Cambridge__
+`Apr 2015 - Jun 2018`
+__Triovest Realty Advisors__, *Property Accountant*.
+Received employee recognition award for creating various workflow automation tools using Excel VBA that shortened report preparation time by 30%.
 
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`Nov 2013 - Apr 2015`
+__Sterling Karamar Property Management__, *Property Accountant*.
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2019 -->
 
 
