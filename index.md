@@ -7,7 +7,7 @@ A self-motivated and skilled developer pursuing a M.Sc in Computing Science.
 
 <div id="webaddress">
 <a href="yanxi.yc@gmail.com">yanxi.yc@gmail.com</a>
-| <a href="https://yanxichen.github.io/madebyyanxi/">My GitHub page</a>
+| <a href="https://yanxichen.github.io/madebyyanxi/">yanxichen.github.io/madebyyanxi/</a>
 </div>
 
 ## Skills
@@ -27,17 +27,17 @@ Airbnb, *Incoming Software Engineer Intern*, San Francisco, USA
 ## Projects
 
 `Python`
-__SilverFr__, A web-based automatic spoken French evaluation tool.
+__SilverFr__, *A web-based automatic spoken French evaluation tool.*
 - Selected by Bank of Canada as a finalist in the PIVOT Program
-- Uses audio signal processing and deep learning to evaluate speech fluency and content
+- Uses audio processing and deep learning to evaluate speech fluency and content
 
 `Python`
-__Realsense Viewer__, A 3D Point Cloud Data Visualization for Intel® RealSense™ Camera, built with Python and VTK.
-- Displays and allows user engagement with the visualized 3D point cloud data in real-time
+__Realsense Viewer__, *A 3D Point Cloud Data Visualization for Intel RealSense Camera built with PyVTK.*
+- Displays and allows user engagement with visualized 3D point cloud in real-time
 
 `Python`
-__InstaGrow__, An Instagram automation tool that grows followers through automated interactions with other accounts.
-- Doubled follower count within a month through automated liking posts and following accounts
+__InstaGrow__, *An Instagram automation tool that grows followers through automated social interactions.*
+- Doubled followers within a month through automated liking posts and following accounts
 
 ## Education
 
@@ -51,11 +51,11 @@ Graduated with distinction.
 
 ## Past Experience
 
-`Apr 2015 - Jun 2018`
+`2015 - 2018`
 __Triovest Realty Advisors__, *Property Accountant*.
 Received employee recognition award for creating various workflow automation tools using Excel VBA that shortened report preparation time by 30%.
 
-`Nov 2013 - Apr 2015`
+`2013 - 2015`
 __Sterling Karamar Property Management__, *Property Accountant*.
 
 
