@@ -16,7 +16,7 @@ A self-motivated and skilled developer pursuing a M.Sc in Computing Science.
 Java, Python, Ruby, MatLab, SQL, GraphQL
 
 `Web Technologies`
-JavaScript, TypeScript, React, HTML, CSS, jQuery, Bootstrap, Git 
+JavaScript, TypeScript, React, Thrift IDL, HTML, CSS, jQuery, Bootstrap, Git 
 
 ## Currently
 
