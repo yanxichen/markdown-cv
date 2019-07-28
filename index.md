@@ -13,15 +13,15 @@ A self-motivated and skilled developer pursuing a M.Sc in Computing Science.
 ### Skills
 
 `Languages`
-Python, Java, JavaScript, HTML, MatLab, SQL (Beginner)
+Java, Python, JavaScript, TypeScript, Ruby, HTML, MatLab, SQL
 
 `Frameworks & Tools`
-Git, jQuery, Bootstrap, Unity3D, VTK, AngularJS (Beginner)
+Git, React, jQuery, Bootstrap, VTK, Unity3D
 
 ## Currently
 
 `Jun - Aug 2019`
-Airbnb, *Incoming Software Engineer Intern*, San Francisco, USA
+Airbnb, *Software Engineer Intern - Full Stack*, San Francisco, USA
 
 
 ### Projects
