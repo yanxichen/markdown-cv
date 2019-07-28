@@ -12,11 +12,11 @@ A self-motivated and skilled developer pursuing a M.Sc in Computing Science.
 
 ### Skills
 
-`Languages`
-Java, Python, JavaScript, TypeScript, Ruby, HTML, MatLab, SQL
+`Programming Languages`
+Java, Python, Ruby, MatLab, SQL, GraphQL
 
-`Frameworks & Tools`
-Git, React, jQuery, Bootstrap, VTK, Unity3D
+`Web Technologies`
+JavaScript, TypeScript, React, HTML, CSS, jQuery, Bootstrap, Git 
 
 ## Currently
 
