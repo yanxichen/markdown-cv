@@ -13,12 +13,15 @@ A self-motivated and skilled developer pursuing a M.Sc in Computing Science.
 ### Skills
 
 `Programming Languages`
-Java, Python, Ruby, MatLab, SQL, GraphQL
+Java, Python, JavaScript, TypeScript, Ruby, MatLab, HTML, CSS, SQL, GraphQL
 
-`Web Technologies`
-JavaScript, TypeScript, React, Thrift IDL, HTML, CSS, jQuery, Bootstrap, Git 
+`Frameworks and Tools`
+Git, React, Spring, Apache Thrift, Keras, OpenCV
 
-## Currently
+## Internship Experience
+
+`Sep - Dec 2019`
+Amazon, *Software Development Engineer Intern - Full Stack*, Vancouver, Canada
 
 `Jun - Aug 2019`
 Airbnb, *Software Engineer Intern - Full Stack*, San Francisco, USA
@@ -33,11 +36,7 @@ __SilverFr__, A web-based automatic spoken French evaluation tool.
 
 `Python`
 __Realsense Viewer__, A 3D Point Cloud Data Visualization for Intel® RealSense™ Camera, built with Python and VTK.
-- Displays and allows user engagement with the visualized 3D point cloud data in real-time
 
-`Python`
-__InstaGrow__, An Instagram automation tool that grows followers through automated interactions with other accounts.
-- Doubled follower count within a month through automated liking posts and following accounts
 
 ## Education
 
@@ -62,6 +61,6 @@ __Sterling Karamar Property Management__, *Property Accountant*.
 
 <!-- ### Footer
 
-Last updated: May 2019 -->
+Last updated: Oct 2019 -->
 
 
