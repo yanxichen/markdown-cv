@@ -13,19 +13,24 @@ A self-motivated and skilled developer pursuing a M.Sc in Computing Science.
 ### Skills
 
 `Programming Languages`
-Java, Python, JavaScript, TypeScript, Ruby, MatLab, HTML, CSS, SQL, GraphQL
+Java, Python, JavaScript, Ruby, MatLab, HTML, CSS, SQL
 
 `Frameworks and Tools`
 Git, React, Spring, Apache Thrift, Keras, OpenCV
 
 ## Internship Experience
 
-`Sep - Dec 2019`
+`Sep - Current`
 Amazon, *Software Development Engineer Intern - Full Stack*, Vancouver, Canada
+
+*Tech Stack: Java, Spring, AWS Lambda, Ruby, Rails, JavaScript, React*
 
 `Jun - Aug 2019`
 Airbnb, *Software Engineer Intern - Full Stack*, San Francisco, USA
 
+*Tech Stack: Java, Mockito, Ruby, Rails, GraphQL, TypeScript, React*
+- Implemented new map feature on Experiences product detail page that drove up user engagement and sales related metrics in experiment
+- Migrated backend logic and implemented various frontend entry points for Experiences Referrals program that resulted in positive experiment
 
 ### Projects
 
