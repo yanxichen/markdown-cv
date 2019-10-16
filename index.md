@@ -21,7 +21,7 @@ Git, React, Spring, Apache Thrift, Keras, OpenCV
 ## Internship Experience
 
 `Sep - Current`
-__Amazon__, __*Software Development Engineer Intern - Full Stack*__, Vancouver, Canada
+__Amazon__, *__Software Development Engineer Intern - Full Stack__*, Vancouver, Canada
 
 *Tech Stack: Java, Spring, AWS Lambda, Ruby, Rails, JavaScript, React*
 
