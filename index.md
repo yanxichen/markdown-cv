@@ -7,68 +7,63 @@ A self-motivated and skilled developer pursuing a M.Sc in Computing Science.
 
 <div id="webaddress">
 <a href="yanxi.yc@gmail.com">yanxi.yc@gmail.com</a>
-| <a href="https://yanxichen.github.io/madebyyanxi/">yanxichen.github.io/madebyyanxi/</a>
+| <a href="https://yanxichen.github.io/madebyyanxi/">My GitHub page</a>
 </div>
 
-## Skills
+### Skills
 
-`Languages`
-Python, Java, JavaScript, HTML, MatLab, SQL (Beginner)
+`Programming Languages`
+Java, Python, JavaScript, Ruby, MatLab, HTML, CSS, SQL
 
-`Frameworks & Tools`
-Git, jQuery, Bootstrap, Unity3D, VTK, AngularJS (Beginner)
+`Frameworks and Tools`
+Git, React, Spring, Apache Thrift, Keras, OpenCV
 
-## Currently
+## Internship Experience
+
+`Sep - Current`
+Amazon, *Software Development Engineer Intern - Full Stack*, Vancouver, Canada
+
+*Tech Stack: Java, Spring, AWS Lambda, Ruby, Rails, JavaScript, React*
 
 `Jun - Aug 2019`
-__Airbnb__, *Incoming Software Engineer Intern*, San Francisco, USA
+Airbnb, *Software Engineer Intern - Full Stack*, San Francisco, USA
 
+*Tech Stack: Java, Mockito, Ruby, Rails, GraphQL, TypeScript, React*
+- Implemented new map feature on Experiences product detail page that drove up user engagement and sales related metrics in experiment
+- Migrated backend logic and implemented various frontend entry points for Experiences Referrals program that resulted in positive experiment
 
-## Projects
+### Projects
 
 `Python`
-__SilverFr__, *A web-based automatic spoken French evaluation tool.*
+__SilverFr__, A web-based automatic spoken French evaluation tool.
 - Selected by Bank of Canada as a finalist in the PIVOT Program
-- Uses audio processing and deep learning to evaluate speech fluency and content
+- Uses audio signal processing and deep learning to evaluate speech fluency and content
 
 `Python`
-__Realsense Viewer__, *A 3D Point Cloud Data Visualization for Intel RealSense Camera built with PyVTK.*
-- Displays and allows user engagement with visualized 3D point cloud in real-time
+__Realsense Viewer__, A 3D Point Cloud Data Visualization for Intel® RealSense™ Camera, built with Python and VTK.
 
-`Python`
-__InstaGrow__, *An Instagram automation tool that grows followers through automated social interactions.*
-- Grows followers count through automated liking posts and following accounts
-
-`Python`
-__Catheter Direction Detector__, *A real-time detector for surgical catheter tip orientations.*
-- Uses a convolutional neural network to assess catheter direction from 2D images
 
 ## Education
 
 `Sep 2018 - Now`
 __Computing Science__, *University of Alberta*, M. Sc.
-
 Focus includes Machine Learning and AI, Image Processing, Computer Vision, and Network.
 
 `Sep 2009 - Jun 2013`
 __Accounting__, *University of Toronto*, B. Comm.
-
 Graduated with distinction.
 
 ## Past Experience
 
-`2015 - 2018`
-Triovest Realty Advisors, *Property Accountant*.
-
+`Apr 2015 - Jun 2018`
+__Triovest Realty Advisors__, *Property Accountant*.
 Received employee recognition award for creating various workflow automation tools using Excel VBA that shortened report preparation time by 30%.
 
-`2013 - 2015`
-Sterling Karamar Property Management, *Property Accountant*.
+`Nov 2013 - Apr 2015`
+__Sterling Karamar Property Management__, *Property Accountant*.
 
 
 
 <!-- ### Footer
 
-Last updated: May 2019 -->
-
-
+Last updated: Oct 2019 -->
