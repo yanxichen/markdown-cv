@@ -21,12 +21,13 @@ Git, React, Spring, Apache Thrift, Keras, OpenCV
 ## Internship Experience
 
 `Sep - Current`
-Amazon, *Software Development Engineer Intern - Full Stack*, Vancouver, Canada
+__Amazon__, *Software Development Engineer Intern - Full Stack*, Vancouver, Canada
 
 *Tech Stack: Java, Spring, AWS Lambda, Ruby, Rails, JavaScript, React*
 
+
 `Jun - Aug 2019`
-Airbnb, *Software Engineer Intern - Full Stack*, San Francisco, USA
+__Airbnb__, *Software Engineer Intern - Full Stack*, San Francisco, USA
 
 *Tech Stack: Java, Mockito, Ruby, Rails, GraphQL, TypeScript, React*
 - Implemented new map feature on Experiences product detail page that drove up user engagement and sales related metrics in experiment
