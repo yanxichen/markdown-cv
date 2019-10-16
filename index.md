@@ -30,9 +30,9 @@ __Amazon__, *__Software Development Engineer Intern - Full Stack__*, Vancouver, 
 __Airbnb__, __*Software Engineer Intern - Full Stack*__, San Francisco, USA
 
 *Tech Stack: Java, Mockito, Ruby, Rails, GraphQL, TypeScript, React*
-- Implemented new map feature on Experiences product detail page 
-- Migrated backend logic and implemented various frontend entry points for Experiences Referrals program
-- Drove up user engagement and sales related metrics in experiment
+•  Implemented new map feature on Experiences product detail page 
+•  Migrated backend logic and implemented various frontend entry points for Experiences Referrals program
+•  Drove up user engagement and sales related metrics in experiment
 
 ### Projects
 
