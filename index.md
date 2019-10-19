@@ -22,13 +22,11 @@ Git, React, Spring, Apache Thrift, Keras, OpenCV
 
 `Sep - Current`
 __Amazon__, *__Software Development Engineer Intern - Full Stack__*, Vancouver, Canada
-
 #### Tech Stack: Java, Spring, AWS Lambda, Ruby, Rails, JavaScript, React
 
 
 `Jun - Aug 2019`
 __Airbnb__, __*Software Engineer Intern - Full Stack*__, San Francisco, USA
-
 #### Tech Stack: Java, Mockito, Ruby, Rails, GraphQL, TypeScript, React
 •  Implemented new map feature on Experiences product detail page 
 •  Migrated backend logic and implemented various frontend entry points for Experiences Referrals program
