@@ -63,6 +63,7 @@ Graduated with distinction.
 __Triovest Realty Advisors__, *Property Accountant*.
 Received employee recognition award for creating various workflow automation tools using Excel VBA that shortened report preparation time by 30%.
 
+
 `Nov 2013 - Apr 2015`
 __Sterling Karamar Property Management__, *Property Accountant*.
 
