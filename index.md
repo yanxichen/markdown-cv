@@ -17,16 +17,18 @@ Java, Python, JavaScript, Ruby, MatLab, HTML, CSS, SQL
 `Frameworks and Tools`
 Git, React, Spring, Keras, OpenCV
 
-## Internship Experience
+## Experience
 
 `Sep - Current`
 __Amazon__ 
+
 *Software Development Engineer Intern - Full Stack*, Vancouver, Canada
 #### Tech Stack: Java, Spring, AWS Lambda, AWS CloudFormation, Ruby, Rails, JavaScript, React
 
 
 `Jun - Aug 2019`
 __Airbnb__ 
+
 *Software Engineer Intern - Full Stack*, San Francisco, USA
 #### Tech Stack: Java, Mockito, Apache Thrift, Ruby, Rails, GraphQL, TypeScript, React
 - Implemented new map feature on Experiences product detail page 
