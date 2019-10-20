@@ -52,7 +52,6 @@ __Computing Science__, *University of Alberta*, M. Sc. GPA 4.0/4.0
 
 Focus includes Machine Learning and AI, Image Processing, Computer Vision, and Network.
 
-
 `Sep 2009 - Jun 2013`
 __Accounting__, *University of Toronto*, B. Comm. GPA 3.37/4.0
 
@@ -62,8 +61,6 @@ Graduated with distinction.
 
 `Apr 2015 - Jun 2018`
 __Triovest Realty Advisors__, *Property Accountant*.
-Received employee recognition award for creating various workflow automation tools using Excel VBA that shortened report preparation time by 30%.
-
 
 `Nov 2013 - Apr 2015`
 __Sterling Karamar Property Management__, *Property Accountant*.
