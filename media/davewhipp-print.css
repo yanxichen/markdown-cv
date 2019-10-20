@@ -61,7 +61,7 @@ body {
 	margin-left: 1em;*/
 }
 
-p {
+p, h4 {
 	position: relative;
 	left: 25%;
 	margin-bottom: 0.2em;
@@ -87,17 +87,17 @@ p code {
 ul {
 	position: relative;
 	left: 25%;
-	width: 75%;
+	width: 55%;
 	margin-bottom: 1em;
 	/*margin-top: -0.5em;*/
 }
 
 /*uncomment to get dashes in the list*/
-/*li:before {
+li:before {
 	content: "-";
 	position: relative;
 	left: -0.25em;
-}*/
+}
 
 li {
 	/*second line indent*/
@@ -113,7 +113,7 @@ li ul {
 	margin-top: 0.25em;
 }
 
-h1,h2,h3,h4 {
+h1,h2,h3 {
 	font-weight: 400;
 	font-family: Avenir,Cousine,Verdana,sans-serif;
 	width: 80%;
@@ -152,6 +152,12 @@ h3 {
 	top: 1.6em;
 	text-align: right;
 	width: 20%;
+}
+
+h4 {
+	top: 0;
+	color: #939393;
+	margin-bottom: 1em;
 }
 
 a {
