@@ -9,7 +9,7 @@ title: Yanxi Chen's Resume
 | <a href="https://yanxichen.github.io/madebyyanxi/">My GitHub page</a>
 </div>
 
-### Skills
+## Skills
 
 `Programming Languages`
 Java, Python, JavaScript, Ruby, MatLab, HTML, CSS, SQL
@@ -34,7 +34,7 @@ __Airbnb__
 - Implemented new map feature on Experiences product detail page 
 - Migrated backend logic and implemented various frontend entry points for Experiences Referrals program
 
-### Projects
+## Projects
 
 `Python`
 __SilverFr__, A web-based automatic spoken French evaluation tool.
