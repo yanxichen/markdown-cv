@@ -6,7 +6,7 @@ title: Yanxi Chen's Resume
 
 <div id="webaddress">
 <a href="yanxi.yc@gmail.com">yanxi.yc@gmail.com</a>
-| <a href="https://yanxichen.github.io/madebyyanxi/">My GitHub page</a>
+| <a href="https://yanxichen.github.io/madebyyanxi/">https://yanxichen.github.io/madebyyanxi/</a>
 </div>
 
 ## Skills
