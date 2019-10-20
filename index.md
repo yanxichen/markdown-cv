@@ -19,7 +19,7 @@ Git, React, Spring, Keras, OpenCV
 
 ## Experience
 
-`Sep - Current`
+`Sep 2019 - Current`
 __Amazon__ 
 
 *Software Development Engineer Intern - Full Stack*, Vancouver, Canada
@@ -49,10 +49,12 @@ __Realsense Viewer__, A 3D Point Cloud Data Visualization for IntelÂ® RealSenseâ
 
 `Sep 2018 - Now`
 __Computing Science__, *University of Alberta*, M. Sc. GPA 4.0/4.0
+
 Focus includes Machine Learning and AI, Image Processing, Computer Vision, and Network.
 
 `Sep 2009 - Jun 2013`
 __Accounting__, *University of Toronto*, B. Comm. GPA 3.37/4.0
+
 Graduated with distinction.
 
 ## Past Experience
