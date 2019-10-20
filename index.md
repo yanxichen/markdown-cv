@@ -52,6 +52,7 @@ __Computing Science__, *University of Alberta*, M. Sc. GPA 4.0/4.0
 
 Focus includes Machine Learning and AI, Image Processing, Computer Vision, and Network.
 
+
 `Sep 2009 - Jun 2013`
 __Accounting__, *University of Toronto*, B. Comm. GPA 3.37/4.0
 
