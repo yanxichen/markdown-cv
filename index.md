@@ -3,7 +3,6 @@ layout: cv
 title: Yanxi Chen's Resume
 ---
 # Yanxi Chen
-A self-motivated and skilled developer pursuing a M.Sc in Computing Science.
 
 <div id="webaddress">
 <a href="yanxi.yc@gmail.com">yanxi.yc@gmail.com</a>
@@ -16,21 +15,22 @@ A self-motivated and skilled developer pursuing a M.Sc in Computing Science.
 Java, Python, JavaScript, Ruby, MatLab, HTML, CSS, SQL
 
 `Frameworks and Tools`
-Git, React, Spring, Apache Thrift, Keras, OpenCV
+Git, React, Spring, Keras, OpenCV
 
 ## Internship Experience
 
 `Sep - Current`
-__Amazon__, *__Software Development Engineer Intern - Full Stack__*, Vancouver, Canada
-#### Tech Stack: Java, Spring, AWS Lambda, Ruby, Rails, JavaScript, React
+__Amazon__ 
+*Software Development Engineer Intern - Full Stack*, Vancouver, Canada
+#### Tech Stack: Java, Spring, AWS Lambda, AWS CloudFormation, Ruby, Rails, JavaScript, React
 
 
 `Jun - Aug 2019`
-__Airbnb__, __*Software Engineer Intern - Full Stack*__, San Francisco, USA
-#### Tech Stack: Java, Mockito, Ruby, Rails, GraphQL, TypeScript, React
-•  Implemented new map feature on Experiences product detail page 
-•  Migrated backend logic and implemented various frontend entry points for Experiences Referrals program
-•  Drove up user engagement and sales related metrics in experiment
+__Airbnb__ 
+*Software Engineer Intern - Full Stack*, San Francisco, USA
+#### Tech Stack: Java, Mockito, Apache Thrift, Ruby, Rails, GraphQL, TypeScript, React
+- Implemented new map feature on Experiences product detail page 
+- Migrated backend logic and implemented various frontend entry points for Experiences Referrals program
 
 ### Projects
 
@@ -46,11 +46,11 @@ __Realsense Viewer__, A 3D Point Cloud Data Visualization for Intel® RealSense�
 ## Education
 
 `Sep 2018 - Now`
-__Computing Science__, *University of Alberta*, M. Sc.
+__Computing Science__, *University of Alberta*, M. Sc. GPA 4.0/4.0
 Focus includes Machine Learning and AI, Image Processing, Computer Vision, and Network.
 
 `Sep 2009 - Jun 2013`
-__Accounting__, *University of Toronto*, B. Comm.
+__Accounting__, *University of Toronto*, B. Comm. GPA 3.37/4.0
 Graduated with distinction.
 
 ## Past Experience
