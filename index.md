@@ -36,14 +36,10 @@ __Airbnb__
 
 ## Projects
 
-`Python`
 __SilverFr__, A web-based automatic spoken French evaluation tool.
+#### Tech Stack: Python, scikit-learn, Flask, Firebase
 - Selected by Bank of Canada as a finalist in the PIVOT Program
-- Uses audio signal processing and deep learning to evaluate speech fluency and content
-
-`Python`
-__Realsense Viewer__, A 3D Point Cloud Data Visualization for Intel® RealSense™ Camera, built with Python and VTK.
-
+- Uses audio signal processing and deep learning to evaluate speech fluency and content relevance
 
 ## Education
 
