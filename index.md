@@ -19,7 +19,7 @@ Git, React, Spring, Keras, OpenCV
 
 ## Experience
 
-`Sep 2019 - Current`
+`Sep 2019 - Feb 2020`
 __Amazon__ 
 
 *Software Development Engineer Intern - Full Stack*, Vancouver, Canada
