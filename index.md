@@ -59,7 +59,9 @@ Graduated with distinction.
 __Triovest Realty Advisors__, *Property Accountant*.
 
 `Nov 2013 - Apr 2015`
-__Sterling Karamar Property Management__, *Property Accountant*.
+__Sterling Karamar Property Management__,
+
+*Property Accountant*.
 
 
 
