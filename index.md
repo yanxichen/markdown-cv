@@ -23,8 +23,8 @@ Git, React, Spring, Keras, OpenCV
 __Amazon__ 
 
 *Software Development Engineer Intern - Full Stack*, Vancouver, Canada
-#### Tech Stack: Java, Spring, AWS Lambda, AWS CloudFormation, Ruby, Rails, JavaScript, React
-
+#### Tech Stack: AWS Lambda, AWS CloudFormation, AWS Elasticache, Java, Spring, JavaScript, React
+- Designed and created a full-stack web application that helps recruiters find interviewers by filtering on interviewer information and availability
 
 `Jun - Aug 2019`
 __Airbnb__ 
@@ -69,4 +69,4 @@ __Sterling Karamar Property Management__, *Property Accountant*.
 
 <!-- ### Footer
 
-Last updated: Oct 2019 -->
+Last updated: May 2020 -->
