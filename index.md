@@ -19,6 +19,13 @@ Git, React, Spring, Keras, OpenCV
 
 ## Experience
 
+`Aug 2020 - Current`
+__Amazon__ 
+
+*Software Development Engineer I*, Vancouver, Canada
+#### Tech Stack: AWS Lambda, DynamoDB, Java, JavaScript, React
+- Working on the recruiting technology team to develop and maintain interview scheduling technologies as part of company-wide hiring pipeline
+
 `Sep 2019 - Feb 2020`
 __Amazon__ 
 
