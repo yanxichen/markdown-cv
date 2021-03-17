@@ -49,7 +49,7 @@ __SilverFr__, A web-based automatic spoken French evaluation tool.
 
 ## Education
 
-`Sep 2018 - Now`
+`Sep 2018 - Jun 2020`
 __Computing Science__, *University of Alberta*, M. Sc. GPA 4.0/4.0
 
 Focus includes Machine Learning and AI, Image Processing, Computer Vision, and Network.
